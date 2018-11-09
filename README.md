@@ -1,1 +1,1 @@
-# openITMS
+# openITMS - Open IT Managment Solution
